@@ -36,7 +36,7 @@ const skillsList = [
   "canva design",
   "Memes maker",
   "software engineer",
-  "Content creator",
+  "content creator",
 ];
 
 /**
