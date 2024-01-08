@@ -24,7 +24,7 @@ const imageAltText = "a dragon on the leaves";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "i am video editor and content writter";
+  "i am video editor and content writer";
 
 /**
  * List of some of skills or technologies you work on, are learning,
